@@ -1,0 +1,48 @@
+Referências
+ABDI (2013). “Logística Reversa de Equipamentos Eletroeletrônicos – Análise de Viabilidade Técnica e Econômica”. ed. Inventta. ABDI - Agência Brasileira de Desenvolvimento Industrial.
+Alkahtani, M. et al (2021). “An Insight into Reverse Logistics with a Focus on Collection Systems”. Sustainability, vol. 13, 548.
+Aquino, I. R. B. de et al (2021). “The Proposition of a Mathematical Model for the Location of Electrical and Electronic Waste Collection Points”. Sustainability, vol. 13, nº 1, 2071-1050.
+Assis, L. P. de (2013). “Investigação de Metaheurísticas Aplicadas ao Problema de Roteamento de Veículos Multiobjetivo com Coleta Opcional”. Tese de Doutorado, Instituto de Ciências Exatas, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais - Brasil.
+Bo, Y.; Wang, Y. and Wan, Z. (2019). “Optimizing the WEEE Recovery Network Associated with Environmental Protection Awareness and Government Subsidy by Nonlinear Mixed Integer Programming”. Journal of Advanced Transportation, [s. l.], p. 1-21.
+Brasil (2010). Lei nº 12.305 de 02 de agosto de 2010. “Política Nacional de Resíduos Sólidos”. Brasília. http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm, May.
+Costa, L.R. da (2009). “O Problema de Localização Capacitado em Dois Níveis e sua Aplicação ao Planejamento de Logística Reversa”. Tese de Doutorado, COPPE, Programa de Engenharia de Produção, Universidade Federal do Rio de Janeiro, Rio de Janeiro - Brasil.
+Dantzig, G. B. and Ramser, J. H. (1959). “The Truck Dispatching Problem”. Management Science, 6(1):8091.
+Deif, I. and Bodin, L. D. (1984). “Extension of the clarke and wright algorithm for solving the vehicle routing problem with backhauling”. In Didder, A. (Ed.), Proceedings of the Babson Conference on Software Uses in Transportation and Logistic Management, Babson Park, 75-96.
+Demajorovic, J.; Augusto, E. E. F. and Souza, M. T. S. (2016). “Reverse Logistics of E-Waste in Developing Countries: Challenges and Prospects for the Brazilian Model”. Ambient. soc. vol. 19, n. 2, São Paulo, April/ June.
+Dias, P. et al (2018). “Waste electric and electronic equipment (WEEE) management: A study on the Brazilian recycling routes”. Journal of Cleaner Production. vol. 174, 7-16.
+Forti, V. (2019). “O crescimento do lixo eletrônico e suas implicações globais, Panorama setorial da Internet”, n. 4, https://cetic.br/media/docs/publicacoes/6/20191217174403/panorama-setorial-xi-4-lixo-eletronico-atualizado.pdf, May.
+Gendreau, M. and Potvin, JY. (2010). “Handbook of Metaheuristics”. 2. ed. Boston: Springer. vol. 146.
+Grossman, E. (2006). “High Tech Trash: Digital Devices, Hidden Toxics, and Human Health”. Island Press, Washington, DC, United States.
+Haddad, M. et al (2018). “Large Neighborhood-Based Metaheuristic and Branch-and-Price for the Pickup and Delivery Problem with Split Loads”. European Journal of Operational Research. vol. 270.
+Henrique, R. L. da S. and Mattos, U. A. de O. (2020). “Contexto Socioambiental das Cooperativas de Catadores do Rio de Janeiro e os Impactos da COVID 19”. Revista Internacional de Ciências. Rio de Janeiro, vol. 10, 3, 32-49.
+Hornstra, R. P. et al (2020). “The vehicle routing problem with simultaneous pickup and delivery and handling costs”. Computers & Operations Research. vol. 115, 104858.
+Islam, Md T. and Huda, N. (2018). “Reverse logistics and closed-loop supply chain of Waste Electrical and Electronic Equipment (WEEE)/E-waste: A comprehensive literature review”.  Resources, Conservation and Recycling. vol. 137, 48-75.
+Kiddee, P. et al (2014). “Field investigation of the quality of fresh and aged leachates from selected landfills receiving e-waste in an arid climate”. Waste Management. 34, 2292-2304.
+Koç, Ç. and Laporte, G. (2018). “Vehicle routing with backhauls: Review and research perspectives”. Computers & Operations Research. vol. 91, 79-91.
+Lin, C. et al (2014). “Survey of Green Vehicle Routing Problem: Past and future trends”. Expert Systems with Applications. vol. 41, 4, 1118-1138.
+Lourenço, H. R.; Martin, O. C. and Stützle, T. (2003). “Iterated Local Search”. In F. Glover and G. Kochenberger editors, Handbook of Metaheuristics, p. 321-353. Kluwer Academic Publishers, Norwell, MA.
+Mar-Ortiz, J.; González-Velarde, J.L. and Adenso-Díaz, B. (2013). “Designing routes for WEEE collection: the vehicle routing problem with split loads and date windows”. J Heuristics 19, 103–127.
+Melián-Batista, B. and Moreno-Pérez, J. (2013). “Introduction to the special issue on intelligent metaheuristics for logistic planning”. Journal of Heuristics, [s. l.], v. 19, 2, 97-101.
+Nowak, M.; Ergun, Ö. and White, I. C. C. (2008). “Pickup and Delivery with Split Loads”. Transportation Science, [s. l.], vol. 42, n. 1, p. 32-43.
+Nowakowski, P. (2017). “A proposal to improve e-waste collection efficiency in urban mining: Container loading and vehicle routing problems - A case study of Poland”. Waste Management. vol. 60, p. 494-504.
+Nowakowski, P.; Król, A. and Mrówczyńska, B. (2017). “Supporting mobile WEEE collection on demand: A method for multi-criteria vehicle routing, loading and cost optimization”. Waste Management. vol. 69, p. 377-392.
+Nowakowski, P.; Szwarc, K. and Boryczka, U. (2018). “Vehicle route planning in e-waste mobile collection on demand supported by artificial intelligence algorithms”. Transportation Research, Transport and Environment, vol. 63, 1-22.
+Penna, P. H. V. (2013). “Um Algoritmo Unificado para uma Classe de Problemas de Roteamento de Veículos com Frota Heterogênea”. Tese de Doutorado, Instituto de Computação, Universidade Federal Fluminense, Niterói, Rio de Janeiro - Brasil.
+Penna, P. H. V. et al (2019). “A hybrid heuristic for a broad class of vehicle routing problems with heterogeneous fleet”. Ann Oper Res 273, 5-74.
+Rachih, H.; Mhada, F. Z. and Chiheb, R. (2019). “Meta-heuristics for reverse logistics: a literature review and perspectives”. Computers & Industrial Engineering. vol. 127, 45-62.
+Reddy, K. N.; Kumar, A. and Ballantyne, E. E. F. (2019). “A three-phase heuristic approach for reverse logistics network design incorporating carbon footprint”. International Journal of Production Research. vol. 57, 19, 6090-6114.
+Santos, M. J. M. dos (2020). “Towards solving a robust and sustainable Vehicle Routing Problem with Backhauls”. Tese de Doutorado, Departamento de Engenharia e Gestão Industrial, Faculdade de Engenharia da Universidade do Porto, Porto - Portugal.
+Silva, M.; Subramanian, A. and Ochi, L. (2015). “An Iterated Local Search heuristic for the Split Delivery Vehicle Routing Problem”. Computers & Operations Research. vol. 53, 234-249.
+Singhal, D.; Tripathy, S. and Jena, S. K. (2020). “Remanufacturing for the circular economy: Study and evaluation of critical factors”. Resources, Conservation and Recycling. vol. 156, 104681.
+Sousa Matos, M.; Frota, Y. and Ochi, L. (2018). “Green Vehicle Routing and Scheduling Problem with Split Delivery”.  Electronic Notes in Discrete Mathematics. vol. 69, 13-20.
+Subramanian, A. (2012). “Heuristic, Exact and Hybrid Approaches for Vehicle Routing Problems”. Tese de Doutorado, Universidade Federal Fluminense, Niterói, Rio de Janeiro - Brasil.
+Subramanian, A. et al (2010). “A parallel heuristic for the Vehicle Routing Problem with Simultaneous Pickup and Delivery”. Computers & Operations Research. vol. 37, 11, 1899-1911.
+Subramanian, A. et al (2011). “Branch-and-cut with lazy separation for the vehicle routing problem with simultaneous pickup and delivery”. Oper. Res. Lett. vol. 39, 338-341.
+Subramanian, A.; Uchoa, E. and Ochi, L. (2013). “A hybrid algorithm for a class of vehicle routing problems”. Computers & Operations Research. vol. 40, 2519-2531.
+Tavakkoli-Moghaddam, R.; Saremi, A. R. and Ziaee, M. S. (2006). “A memetic algorithm for a vehicle routing problem with backhauls”. Applied Mathematics and Computation. vol. 181, 2, 1049-1060.
+Toth, P. and Vigo, D. (1997). “Um algoritmo exato para o problema de roteamento de veículos com backhauls”. 372-385.
+Toth, P. and Vigo, D. (2002). “O problema do roteamento do veículo. Monografias sobre Matemática Discreta e Aplicações”. Filadélfia: Sociedade de Matemática Industrial e Aplicada. vol. 9
+Ubeda, S.; Arcelus, F. and Faulin, J. (2011). “Green logistics at eroski: A case study”. International Journal of Production Economics. vol. 131, 1, 44-51.
+Varejão, S. C. (2017). “Revisão da Literatura”. https://silo.tips/download/2-revisao-da-literatura-5. February.
+Wikipedia contributors (2022). “Vehicle Routing Problem. In Wikipédia”, The Free Encyclopedia. https://en.wikipedia.org/wiki/Vehicle_routing_problem#cite_note-toth-2. February.
+Yu, H. et al (2020). “Reverse Logistics Network Design for Effective Management of Medical Waste in Epidemic Outbreaks: Insights from the Coronavirus Disease 2019 (COVID-19) Outbreak in Wuhan (China)”. International Journal of Environmental Research and Public Health. vol. 17, 5, 1660-4601.
