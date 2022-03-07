@@ -1,4 +1,4 @@
-# PRVCLE
+# Problema de Roteamento de Veículo na Coleta do Lixo Eletrônico
 
 Neste repositório foram disponibilizadas diversas referências importantes realacionadas ao Problema de Roteamento de Veículo na Coleta do Lixo Eletrônico (PRVCLE). Este é um tema de grande relevância no contexto de Cidades Inteligentes ou _Smart Cities_ e que ainda possui algumas lacunas. Na literatura, há várias contribuições que tratam problemas semelhantes ao PRVCLE e portanto, este material agrega conceitos consideráveis à novas pesquisas e necessitam serem mais explorados.
 
