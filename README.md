@@ -9,4 +9,4 @@ O lixo eletrônico é um dos problemas socioambientais que mais tem chamado a at
 
 
 ## Módulo
-1. [Referências](1.%20Referências_PRVCLE%20.pdf)
+1. [Referências](Referências_PRVCLE.pdf)
