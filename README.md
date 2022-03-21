@@ -1,6 +1,6 @@
 # Problema de Coleta do Lixo Eletrônico
 
-Neste repositório foram disponibilizadas diversas referências importantes realacionadas ao Problema de Coleta do Lixo Eletrônico (PCLE). Este é um tema de grande relevância para a sociedade, de modo específico, no contexto de Cidades Inteligentes ou _Smart Cities_ ainda possui algumas lacunas. Na literatura, há várias contribuições que tratam problemas semelhantes ao PCLE. Portanto, este material pode agregar conceitos consideráveis à novas pesquisas sobre o acúmulo desses resíduos no meio ambiente e, necessitam serem mais explorados.
+Neste repositório foram disponibilizadas diversas referências importantes realacionadas ao Problema de Coleta do Lixo Eletrônico (PCLE). Esse é um tema de grande relevância para a sociedade, de modo específico, no contexto de Cidades Inteligentes ou _Smart Cities_ ainda possui algumas lacunas. Na literatura, há várias contribuições que tratam problemas semelhantes ao PCLE. Portanto, este material pode agregar conceitos consideráveis à novas pesquisas sobre o acúmulo desses resíduos no meio ambiente e, necessitam serem mais explorados.
 
 
 ## Resumo
